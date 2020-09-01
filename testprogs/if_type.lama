@@ -1,0 +1,3 @@
+if "une string" {
+    println("ça ne devrait PAS arriver");
+}

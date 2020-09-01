@@ -1,0 +1,40 @@
+array: Array;
+array = a_new();
+
+i: Int;
+for i = 0; i < 3; i = i + 1 {
+  a_push(array, i);
+}
+
+for i = 0; i < a_len(array); i = i + 1 {
+ print(a_get(array, i));
+ print(" ");
+}
+println("");
+
+a_rem(array, 1);
+
+for i = 0; i < a_len(array); i = i + 1 {
+ print(a_get(array, i));
+ print(" ");
+}
+println("");
+
+a_set(array, 0, 4);
+a_set(array, 1, 2);
+
+for i = 0; i < a_len(array); i = i + 1 {
+ print(a_get(array, i));
+ print(" ");
+}
+
+in: String;
+println("");
+println("taper l pour l'erreur de lecture ou autre chose pour celle d'écriture (remove)");
+in = read();
+
+if in == "l" {
+    a_get(array, 2);
+} else {
+    a_rem(array, 2);
+}

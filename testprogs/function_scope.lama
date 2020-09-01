@@ -1,0 +1,8 @@
+x: Int;
+x = 1337;
+
+fn routine() {
+    println(x); // Erreur
+}
+
+routine();

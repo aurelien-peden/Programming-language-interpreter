@@ -1,0 +1,27 @@
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+x: Int;
+x = get_int();
+y: Int;
+y = get_int();
+println(x + y);
+println("");
+
+i: Int;
+for i = 0; i < x + y; i = i + 1 {
+    println(i + 1);
+}
+
+name: String;
+print("Entrez votre nom : ");
+name = read();
+print("Bonjour, ");
+print(name);
+println(" !");

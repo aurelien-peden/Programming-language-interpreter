@@ -1,0 +1,26 @@
+// Les fonctions prennent leurs arguments par valeur
+fn inc(x: Int): Int {
+    x = x + 1;
+    return x;
+}
+
+top_level: Int;
+top_level = 41;
+
+println(top_level);
+println(inc(top_level));
+println(top_level);
+
+// On simule un pointeur grace a un tableau
+fn inc_ptr(x: Array): Array {
+    a_set(x, 0, a_get(x, 0) + 1);
+    return x;
+}
+
+false_pointer: Array;
+false_pointer = a_new();
+a_push(false_pointer, 41);
+
+println(false_pointer);
+println(inc_ptr(false_pointer));
+println(false_pointer);

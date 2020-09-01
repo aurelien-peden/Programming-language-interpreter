@@ -1,0 +1,3744 @@
+println("program execution started");
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}
+
+fn get_int(): Int {
+    n: Int;
+    while (n == uninit) {
+        print("Entrez un entier : ");
+        n = readInt();
+    }
+    return n;
+}

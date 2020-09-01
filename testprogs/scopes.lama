@@ -1,0 +1,7 @@
+if true {
+    x: Int;
+    x = 42;
+    println("étonnant");
+}
+
+println(x);
